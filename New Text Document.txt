@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 demo thu nghiem
 them 1 noi dung
+=======
+>>>>>>> parent of 14bfda1... them noi dung
