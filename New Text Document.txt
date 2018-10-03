@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 demo thu nghiem
 them 1 noi dung
 =======
 >>>>>>> parent of 14bfda1... them noi dung
+=======
+demo thu nghiem
+>>>>>>> parent of a5e87ce... them noi dung 2
